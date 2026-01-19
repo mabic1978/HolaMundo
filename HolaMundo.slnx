@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="HolaMundo/HolaMundo.vcxproj" />
+  <Project Path="HolaMundo/HolaMundo.vcxproj" Id="54b3aa76-a140-4034-8834-d603debaecb5" />
 </Solution>
